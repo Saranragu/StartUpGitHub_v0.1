@@ -16,6 +16,7 @@
 		6BA5B5B0274F83F0002093D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BA5B5AE274F83F0002093D9 /* LaunchScreen.storyboard */; };
 		6BA5B5BB274F83F1002093D9 /* StartUpGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA5B5BA274F83F1002093D9 /* StartUpGitHubTests.swift */; };
 		6BA5B5C6274F83F1002093D9 /* StartUpGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA5B5C5274F83F1002093D9 /* StartUpGitHubUITests.swift */; };
+		6BA5B5D7274F89A0002093D9 /* UpLoadImgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA5B5D6274F89A0002093D9 /* UpLoadImgViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		6BA5B5C1274F83F1002093D9 /* StartUpGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StartUpGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BA5B5C5274F83F1002093D9 /* StartUpGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartUpGitHubUITests.swift; sourceTree = "<group>"; };
 		6BA5B5C7274F83F1002093D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BA5B5D6274F89A0002093D9 /* UpLoadImgViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpLoadImgViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				6BA5B5A0274F83E7002093D9 /* AppDelegate.swift */,
 				6BA5B5A2274F83E7002093D9 /* SceneDelegate.swift */,
 				6BA5B5A4274F83E7002093D9 /* ViewController.swift */,
+				6BA5B5D6274F89A0002093D9 /* UpLoadImgViewController.swift */,
 				6BA5B5A6274F83E7002093D9 /* Main.storyboard */,
 				6BA5B5AC274F83F0002093D9 /* Assets.xcassets */,
 				6BA5B5AE274F83F0002093D9 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BA5B5AB274F83E7002093D9 /* StartUpGitHub.xcdatamodeld in Sources */,
+				6BA5B5D7274F89A0002093D9 /* UpLoadImgViewController.swift in Sources */,
 				6BA5B5A5274F83E7002093D9 /* ViewController.swift in Sources */,
 				6BA5B5A1274F83E7002093D9 /* AppDelegate.swift in Sources */,
 				6BA5B5A3274F83E7002093D9 /* SceneDelegate.swift in Sources */,
